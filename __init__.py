@@ -12,8 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import time
 from mycroft.skills.core import FallbackSkill
-
+from mycroft.messagebus.message import Message
 
 class UnknownSkill(FallbackSkill):
     def __init__(self):
@@ -39,8 +40,12 @@ class UnknownSkill(FallbackSkill):
                 if utterance.startswith(l):
                     self.log.info('Fallback type: ' + i)
                     self.speak_dialog(i, data={'remaining': l.replace(i, '')})
+                    time.sleep (3)
+                    self.bus.emit(Message("mycroft.mic.listen"))
                     return True
         self.speak_dialog('unknown')
+        time.sleep (3)
+        self.bus.emit(Message("mycroft.mic.listen"))
         return True
 
 
