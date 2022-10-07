@@ -1,92 +1,2162 @@
-what am
-what are
-what can
-what could
-what dare
-what did
-what do
-what does
-what has
-what have
-what is
-what may
-what might
-what must
-what need
-what ought
-what shall
-what should
-what used
-what was
-what were
-what will
-what would
-where am
-where are
-where can
-where could
-where dare
-where did
-where do
-where does
-where has
-where have
-where is
-where may
-where might
-where must
-where need
-where ought
-where shall
-where should
-where used
-where was
-where were
-where will
-where would
-when am
-where are
-where can
-where could
-where dare
-where did
-where do
-where does
-where has
-where have
-where is
-where may
-where might
-where must
-where need
-where ought
-where shall
-where should
-where used
-where was
-where were
-where will
-where would
-how am
-how are
-how can
-how could
-how dare
-how did
-how do
-how does
-how has
-how have
-how is
-how may
-how might
-how must
-how need
-how ought
-how shall
-how should
-how used
-how was
-how were
-how will
-how would
+am	all
+am	another
+am	any
+am	anybody
+am	anyone
+am	anything
+am	both
+am	each
+am	everybody
+am	everyone
+am	everything
+am	he
+am	her
+am	him
+am	his
+am	i
+am	it
+am	its
+am	many
+am	most
+am	my
+am	neither
+am	nobody
+am	none
+am	no-one
+am	nothing
+am	one
+am	other
+am	others
+am	our
+am	several
+am	she
+am	some
+am	somebody
+am	someone
+am	something
+am	such
+am	that
+am	their
+am	there
+am	these
+am	they
+am	this
+am	those
+am	we
+am	you
+am	your
+am not	all
+am not	another
+am not	any
+am not	anybody
+am not	anyone
+am not	anything
+am not	both
+am not	each
+am not	everybody
+am not	everyone
+am not	everything
+am not	he
+am not	her
+am not	him
+am not	his
+am not	i
+am not	it
+am not	its
+am not	many
+am not	most
+am not	my
+am not	neither
+am not	nobody
+am not	none
+am not	no-one
+am not	nothing
+am not	one
+am not	other
+am not	others
+am not	our
+am not	several
+am not	she
+am not	some
+am not	somebody
+am not	someone
+am not	something
+am not	such
+am not	that
+am not	their
+am not	there
+am not	these
+am not	they
+am not	this
+am not	those
+am not	we
+am not	you
+am not	your
+are	all
+are	another
+are	any
+are	anybody
+are	anyone
+are	anything
+are	both
+are	each
+are	everybody
+are	everyone
+are	everything
+are	he
+are	her
+are	him
+are	his
+are	i
+are	it
+are	its
+are	many
+are	most
+are	my
+are	neither
+are	nobody
+are	none
+are	no-one
+are	nothing
+are	one
+are	other
+are	others
+are	our
+are	several
+are	she
+are	some
+are	somebody
+are	someone
+are	something
+are	such
+are	that
+are	their
+are	there
+are	these
+are	they
+are	this
+are	those
+are	we
+are	you
+are	your
+aren't	all
+aren't	another
+aren't	any
+aren't	anybody
+aren't	anyone
+aren't	anything
+aren't	both
+aren't	each
+aren't	everybody
+aren't	everyone
+aren't	everything
+aren't	he
+aren't	her
+aren't	him
+aren't	his
+aren't	i
+aren't	it
+aren't	its
+aren't	many
+aren't	most
+aren't	my
+aren't	neither
+aren't	nobody
+aren't	none
+aren't	no-one
+aren't	nothing
+aren't	one
+aren't	other
+aren't	others
+aren't	our
+aren't	several
+aren't	she
+aren't	some
+aren't	somebody
+aren't	someone
+aren't	something
+aren't	such
+aren't	that
+aren't	their
+aren't	there
+aren't	these
+aren't	they
+aren't	this
+aren't	those
+aren't	we
+aren't	you
+aren't	your
+can	all
+can	another
+can	any
+can	anybody
+can	anyone
+can	anything
+can	both
+can	each
+can	everybody
+can	everyone
+can	everything
+can	he
+can	her
+can	him
+can	his
+can	i
+can	it
+can	its
+can	many
+can	most
+can	my
+can	neither
+can	nobody
+can	none
+can	no-one
+can	nothing
+can	one
+can	other
+can	others
+can	our
+can	several
+can	she
+can	some
+can	somebody
+can	someone
+can	something
+can	such
+can	that
+can	their
+can	there
+can	these
+can	they
+can	this
+can	those
+can	we
+can	you
+can	your
+can't	all
+can't	another
+can't	any
+can't	anybody
+can't	anyone
+can't	anything
+can't	both
+can't	each
+can't	everybody
+can't	everyone
+can't	everything
+can't	he
+can't	her
+can't	him
+can't	his
+can't	i
+can't	it
+can't	its
+can't	many
+can't	most
+can't	my
+can't	neither
+can't	nobody
+can't	none
+can't	no-one
+can't	nothing
+can't	one
+can't	other
+can't	others
+can't	our
+can't	several
+can't	she
+can't	some
+can't	somebody
+can't	someone
+can't	something
+can't	such
+can't	that
+can't	their
+can't	there
+can't	these
+can't	they
+can't	this
+can't	those
+can't	we
+can't	you
+can't	your
+could	all
+could	another
+could	any
+could	anybody
+could	anyone
+could	anything
+could	both
+could	each
+could	everybody
+could	everyone
+could	everything
+could	he
+could	her
+could	him
+could	his
+could	i
+could	it
+could	its
+could	many
+could	most
+could	my
+could	neither
+could	nobody
+could	none
+could	no-one
+could	nothing
+could	one
+could	other
+could	others
+could	our
+could	several
+could	she
+could	some
+could	somebody
+could	someone
+could	something
+could	such
+could	that
+could	their
+could	there
+could	these
+could	they
+could	this
+could	those
+could	we
+could	you
+could	your
+couldn't	all
+couldn't	another
+couldn't	any
+couldn't	anybody
+couldn't	anyone
+couldn't	anything
+couldn't	both
+couldn't	each
+couldn't	everybody
+couldn't	everyone
+couldn't	everything
+couldn't	he
+couldn't	her
+couldn't	him
+couldn't	his
+couldn't	i
+couldn't	it
+couldn't	its
+couldn't	many
+couldn't	most
+couldn't	my
+couldn't	neither
+couldn't	nobody
+couldn't	none
+couldn't	no-one
+couldn't	nothing
+couldn't	one
+couldn't	other
+couldn't	others
+couldn't	our
+couldn't	several
+couldn't	she
+couldn't	some
+couldn't	somebody
+couldn't	someone
+couldn't	something
+couldn't	such
+couldn't	that
+couldn't	their
+couldn't	there
+couldn't	these
+couldn't	they
+couldn't	this
+couldn't	those
+couldn't	we
+couldn't	you
+couldn't	your
+dare	all
+dare	another
+dare	any
+dare	anybody
+dare	anyone
+dare	anything
+dare	both
+dare	each
+dare	everybody
+dare	everyone
+dare	everything
+dare	he
+dare	her
+dare	him
+dare	his
+dare	i
+dare	it
+dare	its
+dare	many
+dare	most
+dare	my
+dare	neither
+dare	nobody
+dare	none
+dare	no-one
+dare	nothing
+dare	one
+dare	other
+dare	others
+dare	our
+dare	several
+dare	she
+dare	some
+dare	somebody
+dare	someone
+dare	something
+dare	such
+dare	that
+dare	their
+dare	there
+dare	these
+dare	they
+dare	this
+dare	those
+dare	we
+dare	you
+dare	your
+dare not	all
+dare not	another
+dare not	any
+dare not	anybody
+dare not	anyone
+dare not	anything
+dare not	both
+dare not	each
+dare not	everybody
+dare not	everyone
+dare not	everything
+dare not	he
+dare not	her
+dare not	him
+dare not	his
+dare not	i
+dare not	it
+dare not	its
+dare not	many
+dare not	most
+dare not	my
+dare not	neither
+dare not	nobody
+dare not	none
+dare not	no-one
+dare not	nothing
+dare not	one
+dare not	other
+dare not	others
+dare not	our
+dare not	several
+dare not	she
+dare not	some
+dare not	somebody
+dare not	someone
+dare not	something
+dare not	such
+dare not	that
+dare not	their
+dare not	there
+dare not	these
+dare not	they
+dare not	this
+dare not	those
+dare not	we
+dare not	you
+dare not	your
+did	all
+did	another
+did	any
+did	anybody
+did	anyone
+did	anything
+did	both
+did	each
+did	everybody
+did	everyone
+did	everything
+did	he
+did	her
+did	him
+did	his
+did	i
+did	it
+did	its
+did	many
+did	most
+did	my
+did	neither
+did	nobody
+did	none
+did	no-one
+did	nothing
+did	one
+did	other
+did	others
+did	our
+did	several
+did	she
+did	some
+did	somebody
+did	someone
+did	something
+did	such
+did	that
+did	their
+did	there
+did	these
+did	they
+did	this
+did	those
+did	we
+did	you
+did	your
+didn't	all
+didn't	another
+didn't	any
+didn't	anybody
+didn't	anyone
+didn't	anything
+didn't	both
+didn't	each
+didn't	everybody
+didn't	everyone
+didn't	everything
+didn't	he
+didn't	her
+didn't	him
+didn't	his
+didn't	i
+didn't	it
+didn't	its
+didn't	many
+didn't	most
+didn't	my
+didn't	neither
+didn't	nobody
+didn't	none
+didn't	no-one
+didn't	nothing
+didn't	one
+didn't	other
+didn't	others
+didn't	our
+didn't	several
+didn't	she
+didn't	some
+didn't	somebody
+didn't	someone
+didn't	something
+didn't	such
+didn't	that
+didn't	their
+didn't	there
+didn't	these
+didn't	they
+didn't	this
+didn't	those
+didn't	we
+didn't	you
+didn't	your
+do	all
+do	another
+do	any
+do	anybody
+do	anyone
+do	anything
+do	both
+do	each
+do	everybody
+do	everyone
+do	everything
+do	he
+do	her
+do	him
+do	his
+do	i
+do	it
+do	its
+do	many
+do	most
+do	my
+do	neither
+do	nobody
+do	none
+do	no-one
+do	nothing
+do	one
+do	other
+do	others
+do	our
+do	several
+do	she
+do	some
+do	somebody
+do	someone
+do	something
+do	such
+do	that
+do	their
+do	there
+do	these
+do	they
+do	this
+do	those
+do	we
+do	you
+do	your
+does	all
+does	another
+does	any
+does	anybody
+does	anyone
+does	anything
+does	both
+does	each
+does	everybody
+does	everyone
+does	everything
+does	he
+does	her
+does	him
+does	his
+does	i
+does	it
+does	its
+does	many
+does	most
+does	my
+does	neither
+does	nobody
+does	none
+does	no-one
+does	nothing
+does	one
+does	other
+does	others
+does	our
+does	several
+does	she
+does	some
+does	somebody
+does	someone
+does	something
+does	such
+does	that
+does	their
+does	there
+does	these
+does	they
+does	this
+does	those
+does	we
+does	you
+does	your
+doesn't	all
+doesn't	another
+doesn't	any
+doesn't	anybody
+doesn't	anyone
+doesn't	anything
+doesn't	both
+doesn't	each
+doesn't	everybody
+doesn't	everyone
+doesn't	everything
+doesn't	he
+doesn't	her
+doesn't	him
+doesn't	his
+doesn't	i
+doesn't	it
+doesn't	its
+doesn't	many
+doesn't	most
+doesn't	my
+doesn't	neither
+doesn't	nobody
+doesn't	none
+doesn't	no-one
+doesn't	nothing
+doesn't	one
+doesn't	other
+doesn't	others
+doesn't	our
+doesn't	several
+doesn't	she
+doesn't	some
+doesn't	somebody
+doesn't	someone
+doesn't	something
+doesn't	such
+doesn't	that
+doesn't	their
+doesn't	there
+doesn't	these
+doesn't	they
+doesn't	this
+doesn't	those
+doesn't	we
+doesn't	you
+doesn't	your
+don't	all
+don't	another
+don't	any
+don't	anybody
+don't	anyone
+don't	anything
+don't	both
+don't	each
+don't	everybody
+don't	everyone
+don't	everything
+don't	he
+don't	her
+don't	him
+don't	his
+don't	i
+don't	it
+don't	its
+don't	many
+don't	most
+don't	my
+don't	neither
+don't	nobody
+don't	none
+don't	no-one
+don't	nothing
+don't	one
+don't	other
+don't	others
+don't	our
+don't	several
+don't	she
+don't	some
+don't	somebody
+don't	someone
+don't	something
+don't	such
+don't	that
+don't	their
+don't	there
+don't	these
+don't	they
+don't	this
+don't	those
+don't	we
+don't	you
+don't	your
+has	all
+has	another
+has	any
+has	anybody
+has	anyone
+has	anything
+has	both
+has	each
+has	everybody
+has	everyone
+has	everything
+has	he
+has	her
+has	him
+has	his
+has	i
+has	it
+has	its
+has	many
+has	most
+has	my
+has	neither
+has	nobody
+has	none
+has	no-one
+has	nothing
+has	one
+has	other
+has	others
+has	our
+has	several
+has	she
+has	some
+has	somebody
+has	someone
+has	something
+has	such
+has	that
+has	their
+has	there
+has	these
+has	they
+has	this
+has	those
+has	we
+has	you
+has	your
+hasn't	all
+hasn't	another
+hasn't	any
+hasn't	anybody
+hasn't	anyone
+hasn't	anything
+hasn't	both
+hasn't	each
+hasn't	everybody
+hasn't	everyone
+hasn't	everything
+hasn't	he
+hasn't	her
+hasn't	him
+hasn't	his
+hasn't	i
+hasn't	it
+hasn't	its
+hasn't	many
+hasn't	most
+hasn't	my
+hasn't	neither
+hasn't	nobody
+hasn't	none
+hasn't	no-one
+hasn't	nothing
+hasn't	one
+hasn't	other
+hasn't	others
+hasn't	our
+hasn't	several
+hasn't	she
+hasn't	some
+hasn't	somebody
+hasn't	someone
+hasn't	something
+hasn't	such
+hasn't	that
+hasn't	their
+hasn't	there
+hasn't	these
+hasn't	they
+hasn't	this
+hasn't	those
+hasn't	we
+hasn't	you
+hasn't	your
+have	all
+have	another
+have	any
+have	anybody
+have	anyone
+have	anything
+have	both
+have	each
+have	everybody
+have	everyone
+have	everything
+have	he
+have	her
+have	him
+have	his
+have	i
+have	it
+have	its
+have	many
+have	most
+have	my
+have	neither
+have	nobody
+have	none
+have	no-one
+have	nothing
+have	one
+have	other
+have	others
+have	our
+have	several
+have	she
+have	some
+have	somebody
+have	someone
+have	something
+have	such
+have	that
+have	their
+have	there
+have	these
+have	they
+have	this
+have	those
+have	we
+have	you
+have	your
+haven't	all
+haven't	another
+haven't	any
+haven't	anybody
+haven't	anyone
+haven't	anything
+haven't	both
+haven't	each
+haven't	everybody
+haven't	everyone
+haven't	everything
+haven't	he
+haven't	her
+haven't	him
+haven't	his
+haven't	i
+haven't	it
+haven't	its
+haven't	many
+haven't	most
+haven't	my
+haven't	neither
+haven't	nobody
+haven't	none
+haven't	no-one
+haven't	nothing
+haven't	one
+haven't	other
+haven't	others
+haven't	our
+haven't	several
+haven't	she
+haven't	some
+haven't	somebody
+haven't	someone
+haven't	something
+haven't	such
+haven't	that
+haven't	their
+haven't	there
+haven't	these
+haven't	they
+haven't	this
+haven't	those
+haven't	we
+haven't	you
+haven't	your
+is	all
+is	another
+is	any
+is	anybody
+is	anyone
+is	anything
+is	both
+is	each
+is	everybody
+is	everyone
+is	everything
+is	he
+is	her
+is	him
+is	his
+is	i
+is	it
+is	its
+is	many
+is	most
+is	my
+is	neither
+is	nobody
+is	none
+is	no-one
+is	nothing
+is	one
+is	other
+is	others
+is	our
+is	several
+is	she
+is	some
+is	somebody
+is	someone
+is	something
+is	such
+is	that
+is	their
+is	there
+is	these
+is	they
+is	this
+is	those
+is	we
+is	you
+is	your
+isn't	all
+isn't	another
+isn't	any
+isn't	anybody
+isn't	anyone
+isn't	anything
+isn't	both
+isn't	each
+isn't	everybody
+isn't	everyone
+isn't	everything
+isn't	he
+isn't	her
+isn't	him
+isn't	his
+isn't	i
+isn't	it
+isn't	its
+isn't	many
+isn't	most
+isn't	my
+isn't	neither
+isn't	nobody
+isn't	none
+isn't	no-one
+isn't	nothing
+isn't	one
+isn't	other
+isn't	others
+isn't	our
+isn't	several
+isn't	she
+isn't	some
+isn't	somebody
+isn't	someone
+isn't	something
+isn't	such
+isn't	that
+isn't	their
+isn't	there
+isn't	these
+isn't	they
+isn't	this
+isn't	those
+isn't	we
+isn't	you
+isn't	your
+may	all
+may	another
+may	any
+may	anybody
+may	anyone
+may	anything
+may	both
+may	each
+may	everybody
+may	everyone
+may	everything
+may	he
+may	her
+may	him
+may	his
+may	i
+may	it
+may	its
+may	many
+may	most
+may	my
+may	neither
+may	nobody
+may	none
+may	no-one
+may	nothing
+may	one
+may	other
+may	others
+may	our
+may	several
+may	she
+may	some
+may	somebody
+may	someone
+may	something
+may	such
+may	that
+may	their
+may	there
+may	these
+may	they
+may	this
+may	those
+may	we
+may	you
+may	your
+may not	all
+may not	another
+may not	any
+may not	anybody
+may not	anyone
+may not	anything
+may not	both
+may not	each
+may not	everybody
+may not	everyone
+may not	everything
+may not	he
+may not	her
+may not	him
+may not	his
+may not	i
+may not	it
+may not	its
+may not	many
+may not	most
+may not	my
+may not	neither
+may not	nobody
+may not	none
+may not	no-one
+may not	nothing
+may not	one
+may not	other
+may not	others
+may not	our
+may not	several
+may not	she
+may not	some
+may not	somebody
+may not	someone
+may not	something
+may not	such
+may not	that
+may not	their
+may not	there
+may not	these
+may not	they
+may not	this
+may not	those
+may not	we
+may not	you
+may not	your
+might	all
+might	another
+might	any
+might	anybody
+might	anyone
+might	anything
+might	both
+might	each
+might	everybody
+might	everyone
+might	everything
+might	he
+might	her
+might	him
+might	his
+might	i
+might	it
+might	its
+might	many
+might	most
+might	my
+might	neither
+might	nobody
+might	none
+might	no-one
+might	nothing
+might	one
+might	other
+might	others
+might	our
+might	several
+might	she
+might	some
+might	somebody
+might	someone
+might	something
+might	such
+might	that
+might	their
+might	there
+might	these
+might	they
+might	this
+might	those
+might	we
+might	you
+might	your
+might not	all
+might not	another
+might not	any
+might not	anybody
+might not	anyone
+might not	anything
+might not	both
+might not	each
+might not	everybody
+might not	everyone
+might not	everything
+might not	he
+might not	her
+might not	him
+might not	his
+might not	i
+might not	it
+might not	its
+might not	many
+might not	most
+might not	my
+might not	neither
+might not	nobody
+might not	none
+might not	no-one
+might not	nothing
+might not	one
+might not	other
+might not	others
+might not	our
+might not	several
+might not	she
+might not	some
+might not	somebody
+might not	someone
+might not	something
+might not	such
+might not	that
+might not	their
+might not	there
+might not	these
+might not	they
+might not	this
+might not	those
+might not	we
+might not	you
+might not	your
+must	all
+must	another
+must	any
+must	anybody
+must	anyone
+must	anything
+must	both
+must	each
+must	everybody
+must	everyone
+must	everything
+must	he
+must	her
+must	him
+must	his
+must	i
+must	it
+must	its
+must	many
+must	most
+must	my
+must	neither
+must	nobody
+must	none
+must	no-one
+must	nothing
+must	one
+must	other
+must	others
+must	our
+must	several
+must	she
+must	some
+must	somebody
+must	someone
+must	something
+must	such
+must	that
+must	their
+must	there
+must	these
+must	they
+must	this
+must	those
+must	we
+must	you
+must	your
+must not	all
+must not	another
+must not	any
+must not	anybody
+must not	anyone
+must not	anything
+must not	both
+must not	each
+must not	everybody
+must not	everyone
+must not	everything
+must not	he
+must not	her
+must not	him
+must not	his
+must not	i
+must not	it
+must not	its
+must not	many
+must not	most
+must not	my
+must not	neither
+must not	nobody
+must not	none
+must not	no-one
+must not	nothing
+must not	one
+must not	other
+must not	others
+must not	our
+must not	several
+must not	she
+must not	some
+must not	somebody
+must not	someone
+must not	something
+must not	such
+must not	that
+must not	their
+must not	there
+must not	these
+must not	they
+must not	this
+must not	those
+must not	we
+must not	you
+must not	your
+need	all
+need	another
+need	any
+need	anybody
+need	anyone
+need	anything
+need	both
+need	each
+need	everybody
+need	everyone
+need	everything
+need	he
+need	her
+need	him
+need	his
+need	i
+need	it
+need	its
+need	many
+need	most
+need	my
+need	neither
+need	nobody
+need	none
+need	no-one
+need	nothing
+need	one
+need	other
+need	others
+need	our
+need	several
+need	she
+need	some
+need	somebody
+need	someone
+need	something
+need	such
+need	that
+need	their
+need	there
+need	these
+need	they
+need	this
+need	those
+need	we
+need	you
+need	your
+need not	all
+need not	another
+need not	any
+need not	anybody
+need not	anyone
+need not	anything
+need not	both
+need not	each
+need not	everybody
+need not	everyone
+need not	everything
+need not	he
+need not	her
+need not	him
+need not	his
+need not	i
+need not	it
+need not	its
+need not	many
+need not	most
+need not	my
+need not	neither
+need not	nobody
+need not	none
+need not	no-one
+need not	nothing
+need not	one
+need not	other
+need not	others
+need not	our
+need not	several
+need not	she
+need not	some
+need not	somebody
+need not	someone
+need not	something
+need not	such
+need not	that
+need not	their
+need not	there
+need not	these
+need not	they
+need not	this
+need not	those
+need not	we
+need not	you
+need not	your
+not used to	all
+not used to	another
+not used to	any
+not used to	anybody
+not used to	anyone
+not used to	anything
+not used to	both
+not used to	each
+not used to	everybody
+not used to	everyone
+not used to	everything
+not used to	he
+not used to	her
+not used to	him
+not used to	his
+not used to	i
+not used to	it
+not used to	its
+not used to	many
+not used to	most
+not used to	my
+not used to	neither
+not used to	nobody
+not used to	none
+not used to	no-one
+not used to	nothing
+not used to	one
+not used to	other
+not used to	others
+not used to	our
+not used to	several
+not used to	she
+not used to	some
+not used to	somebody
+not used to	someone
+not used to	something
+not used to	such
+not used to	that
+not used to	their
+not used to	there
+not used to	these
+not used to	they
+not used to	this
+not used to	those
+not used to	we
+not used to	you
+not used to	your
+ought not	all
+ought not	another
+ought not	any
+ought not	anybody
+ought not	anyone
+ought not	anything
+ought not	both
+ought not	each
+ought not	everybody
+ought not	everyone
+ought not	everything
+ought not	he
+ought not	her
+ought not	him
+ought not	his
+ought not	i
+ought not	it
+ought not	its
+ought not	many
+ought not	most
+ought not	my
+ought not	neither
+ought not	nobody
+ought not	none
+ought not	no-one
+ought not	nothing
+ought not	one
+ought not	other
+ought not	others
+ought not	our
+ought not	several
+ought not	she
+ought not	some
+ought not	somebody
+ought not	someone
+ought not	something
+ought not	such
+ought not	that
+ought not	their
+ought not	there
+ought not	these
+ought not	they
+ought not	this
+ought not	those
+ought not	we
+ought not	you
+ought not	your
+ought to	all
+ought to	another
+ought to	any
+ought to	anybody
+ought to	anyone
+ought to	anything
+ought to	both
+ought to	each
+ought to	everybody
+ought to	everyone
+ought to	everything
+ought to	he
+ought to	her
+ought to	him
+ought to	his
+ought to	i
+ought to	it
+ought to	its
+ought to	many
+ought to	most
+ought to	my
+ought to	neither
+ought to	nobody
+ought to	none
+ought to	no-one
+ought to	nothing
+ought to	one
+ought to	other
+ought to	others
+ought to	our
+ought to	several
+ought to	she
+ought to	some
+ought to	somebody
+ought to	someone
+ought to	something
+ought to	such
+ought to	that
+ought to	their
+ought to	there
+ought to	these
+ought to	they
+ought to	this
+ought to	those
+ought to	we
+ought to	you
+ought to	your
+shall	all
+shall	another
+shall	any
+shall	anybody
+shall	anyone
+shall	anything
+shall	both
+shall	each
+shall	everybody
+shall	everyone
+shall	everything
+shall	he
+shall	her
+shall	him
+shall	his
+shall	i
+shall	it
+shall	its
+shall	many
+shall	most
+shall	my
+shall	neither
+shall	nobody
+shall	none
+shall	no-one
+shall	nothing
+shall	one
+shall	other
+shall	others
+shall	our
+shall	several
+shall	she
+shall	some
+shall	somebody
+shall	someone
+shall	something
+shall	such
+shall	that
+shall	their
+shall	there
+shall	these
+shall	they
+shall	this
+shall	those
+shall	we
+shall	you
+shall	your
+shall not	all
+shall not	another
+shall not	any
+shall not	anybody
+shall not	anyone
+shall not	anything
+shall not	both
+shall not	each
+shall not	everybody
+shall not	everyone
+shall not	everything
+shall not	he
+shall not	her
+shall not	him
+shall not	his
+shall not	i
+shall not	it
+shall not	its
+shall not	many
+shall not	most
+shall not	my
+shall not	neither
+shall not	nobody
+shall not	none
+shall not	no-one
+shall not	nothing
+shall not	one
+shall not	other
+shall not	others
+shall not	our
+shall not	several
+shall not	she
+shall not	some
+shall not	somebody
+shall not	someone
+shall not	something
+shall not	such
+shall not	that
+shall not	their
+shall not	there
+shall not	these
+shall not	they
+shall not	this
+shall not	those
+shall not	we
+shall not	you
+shall not	your
+should	all
+should	another
+should	any
+should	anybody
+should	anyone
+should	anything
+should	both
+should	each
+should	everybody
+should	everyone
+should	everything
+should	he
+should	her
+should	him
+should	his
+should	i
+should	it
+should	its
+should	many
+should	most
+should	my
+should	neither
+should	nobody
+should	none
+should	no-one
+should	nothing
+should	one
+should	other
+should	others
+should	our
+should	several
+should	she
+should	some
+should	somebody
+should	someone
+should	something
+should	such
+should	that
+should	their
+should	there
+should	these
+should	they
+should	this
+should	those
+should	we
+should	you
+should	your
+shouldn't	all
+shouldn't	another
+shouldn't	any
+shouldn't	anybody
+shouldn't	anyone
+shouldn't	anything
+shouldn't	both
+shouldn't	each
+shouldn't	everybody
+shouldn't	everyone
+shouldn't	everything
+shouldn't	he
+shouldn't	her
+shouldn't	him
+shouldn't	his
+shouldn't	i
+shouldn't	it
+shouldn't	its
+shouldn't	many
+shouldn't	most
+shouldn't	my
+shouldn't	neither
+shouldn't	nobody
+shouldn't	none
+shouldn't	no-one
+shouldn't	nothing
+shouldn't	one
+shouldn't	other
+shouldn't	others
+shouldn't	our
+shouldn't	several
+shouldn't	she
+shouldn't	some
+shouldn't	somebody
+shouldn't	someone
+shouldn't	something
+shouldn't	such
+shouldn't	that
+shouldn't	their
+shouldn't	there
+shouldn't	these
+shouldn't	they
+shouldn't	this
+shouldn't	those
+shouldn't	we
+shouldn't	you
+shouldn't	your
+used to	all
+used to	another
+used to	any
+used to	anybody
+used to	anyone
+used to	anything
+used to	both
+used to	each
+used to	everybody
+used to	everyone
+used to	everything
+used to	he
+used to	her
+used to	him
+used to	his
+used to	i
+used to	it
+used to	its
+used to	many
+used to	most
+used to	my
+used to	neither
+used to	nobody
+used to	none
+used to	no-one
+used to	nothing
+used to	one
+used to	other
+used to	others
+used to	our
+used to	several
+used to	she
+used to	some
+used to	somebody
+used to	someone
+used to	something
+used to	such
+used to	that
+used to	their
+used to	there
+used to	these
+used to	they
+used to	this
+used to	those
+used to	we
+used to	you
+used to	your
+was	all
+was	another
+was	any
+was	anybody
+was	anyone
+was	anything
+was	both
+was	each
+was	everybody
+was	everyone
+was	everything
+was	he
+was	her
+was	him
+was	his
+was	i
+was	it
+was	its
+was	many
+was	most
+was	my
+was	neither
+was	nobody
+was	none
+was	no-one
+was	nothing
+was	one
+was	other
+was	others
+was	our
+was	several
+was	she
+was	some
+was	somebody
+was	someone
+was	something
+was	such
+was	that
+was	their
+was	there
+was	these
+was	they
+was	this
+was	those
+was	we
+was	you
+was	your
+wasn't	all
+wasn't	another
+wasn't	any
+wasn't	anybody
+wasn't	anyone
+wasn't	anything
+wasn't	both
+wasn't	each
+wasn't	everybody
+wasn't	everyone
+wasn't	everything
+wasn't	he
+wasn't	her
+wasn't	him
+wasn't	his
+wasn't	i
+wasn't	it
+wasn't	its
+wasn't	many
+wasn't	most
+wasn't	my
+wasn't	neither
+wasn't	nobody
+wasn't	none
+wasn't	no-one
+wasn't	nothing
+wasn't	one
+wasn't	other
+wasn't	others
+wasn't	our
+wasn't	several
+wasn't	she
+wasn't	some
+wasn't	somebody
+wasn't	someone
+wasn't	something
+wasn't	such
+wasn't	that
+wasn't	their
+wasn't	there
+wasn't	these
+wasn't	they
+wasn't	this
+wasn't	those
+wasn't	we
+wasn't	you
+wasn't	your
+were	all
+were	another
+were	any
+were	anybody
+were	anyone
+were	anything
+were	both
+were	each
+were	everybody
+were	everyone
+were	everything
+were	he
+were	her
+were	him
+were	his
+were	i
+were	it
+were	its
+were	many
+were	most
+were	my
+were	neither
+were	nobody
+were	none
+were	no-one
+were	nothing
+were	one
+were	other
+were	others
+were	our
+were	several
+were	she
+were	some
+were	somebody
+were	someone
+were	something
+were	such
+were	that
+were	their
+were	there
+were	these
+were	they
+were	this
+were	those
+were	we
+were	you
+were	your
+weren't	all
+weren't	another
+weren't	any
+weren't	anybody
+weren't	anyone
+weren't	anything
+weren't	both
+weren't	each
+weren't	everybody
+weren't	everyone
+weren't	everything
+weren't	he
+weren't	her
+weren't	him
+weren't	his
+weren't	i
+weren't	it
+weren't	its
+weren't	many
+weren't	most
+weren't	my
+weren't	neither
+weren't	nobody
+weren't	none
+weren't	no-one
+weren't	nothing
+weren't	one
+weren't	other
+weren't	others
+weren't	our
+weren't	several
+weren't	she
+weren't	some
+weren't	somebody
+weren't	someone
+weren't	something
+weren't	such
+weren't	that
+weren't	their
+weren't	there
+weren't	these
+weren't	they
+weren't	this
+weren't	those
+weren't	we
+weren't	you
+weren't	your
+will	all
+will	another
+will	any
+will	anybody
+will	anyone
+will	anything
+will	both
+will	each
+will	everybody
+will	everyone
+will	everything
+will	he
+will	her
+will	him
+will	his
+will	i
+will	it
+will	its
+will	many
+will	most
+will	my
+will	neither
+will	nobody
+will	none
+will	no-one
+will	nothing
+will	one
+will	other
+will	others
+will	our
+will	several
+will	she
+will	some
+will	somebody
+will	someone
+will	something
+will	such
+will	that
+will	their
+will	there
+will	these
+will	they
+will	this
+will	those
+will	we
+will	you
+will	your
+won't	all
+won't	another
+won't	any
+won't	anybody
+won't	anyone
+won't	anything
+won't	both
+won't	each
+won't	everybody
+won't	everyone
+won't	everything
+won't	he
+won't	her
+won't	him
+won't	his
+won't	i
+won't	it
+won't	its
+won't	many
+won't	most
+won't	my
+won't	neither
+won't	nobody
+won't	none
+won't	no-one
+won't	nothing
+won't	one
+won't	other
+won't	others
+won't	our
+won't	several
+won't	she
+won't	some
+won't	somebody
+won't	someone
+won't	something
+won't	such
+won't	that
+won't	their
+won't	there
+won't	these
+won't	they
+won't	this
+won't	those
+won't	we
+won't	you
+won't	your
+would	all
+would	another
+would	any
+would	anybody
+would	anyone
+would	anything
+would	both
+would	each
+would	everybody
+would	everyone
+would	everything
+would	he
+would	her
+would	him
+would	his
+would	i
+would	it
+would	its
+would	many
+would	most
+would	my
+would	neither
+would	nobody
+would	none
+would	no-one
+would	nothing
+would	one
+would	other
+would	others
+would	our
+would	several
+would	she
+would	some
+would	somebody
+would	someone
+would	something
+would	such
+would	that
+would	their
+would	there
+would	these
+would	they
+would	this
+would	those
+would	we
+would	you
+would	your
+wouldn't	all
+wouldn't	another
+wouldn't	any
+wouldn't	anybody
+wouldn't	anyone
+wouldn't	anything
+wouldn't	both
+wouldn't	each
+wouldn't	everybody
+wouldn't	everyone
+wouldn't	everything
+wouldn't	he
+wouldn't	her
+wouldn't	him
+wouldn't	his
+wouldn't	i
+wouldn't	it
+wouldn't	its
+wouldn't	many
+wouldn't	most
+wouldn't	my
+wouldn't	neither
+wouldn't	nobody
+wouldn't	none
+wouldn't	no-one
+wouldn't	nothing
+wouldn't	one
+wouldn't	other
+wouldn't	others
+wouldn't	our
+wouldn't	several
+wouldn't	she
+wouldn't	some
+wouldn't	somebody
+wouldn't	someone
+wouldn't	something
+wouldn't	such
+wouldn't	that
+wouldn't	their
+wouldn't	there
+wouldn't	these
+wouldn't	they
+wouldn't	this
+wouldn't	those
+wouldn't	we
+wouldn't	you
+wouldn't	your
