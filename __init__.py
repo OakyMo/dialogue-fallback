@@ -36,7 +36,7 @@ class UnknownSkill(FallbackSkill):
             self.log.exception('Error reporting metric')
 
         for i in ['question', 'what.is', 'where.is', 'when.is', 'how.is', 
-                  'who.is', 'why.is', 'it.is', 'it.is.not', 'i.did', 
+                  'who.is', 'why.is', 'it.is', 'i.did', 
                   'i.did.not', 'i.will', 'i.will.not', 'you.did', 
                   'you.did.not', 'you.can', 'you.can.not', 'hello', 'success',
                   'failure']:
