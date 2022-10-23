@@ -39,7 +39,7 @@ class UnknownSkill(FallbackSkill):
                   'who.is', 'why.is', 'it.is', 'i.did', 
                   'i.did.not', 'i.will', 'i.will.not', 'you.did', 
                   'you.did.not', 'you.can', 'you.can.not', 'hello', 'success',
-                  'failure']:
+                  'failure', 'hear.me', 'how.are.you', 'help', 'what.is.wrong']:
             for l in self.read_voc_lines(i):
                 if utterance.startswith(l):
                     self.log.info('Fallback type: ' + i)
