@@ -35,11 +35,11 @@ class UnknownSkill(FallbackSkill):
         except Exception:
             self.log.exception('Error reporting metric')
 
-        for i in ['question', 'what.is', 'where.is', 'when.is', 'how.is', 
-                  'who.is', 'why.is', 'it.is', 'i.did', 
+        for i in ['hello', 'success', 'failure', 'hear.me', 'how.are.you', 
+                  'help', 'what.is.wrong', 'what.is', 'where.is', 'when.is', 'how.is', 
+                  'who.is', 'why.is', 'i.did', 
                   'i.did.not', 'i.will', 'i.will.not', 'you.did', 
-                  'you.did.not', 'you.can', 'you.can.not', 'hello', 'success',
-                  'failure', 'hear.me', 'how.are.you', 'help', 'what.is.wrong']:
+                  'you.did.not', 'you.can', 'you.can.not', 'question', 'it.is']:
             for l in self.read_voc_lines(i):
                 if utterance.startswith(l):
                     self.log.info('Fallback type: ' + i)
