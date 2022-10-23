@@ -21,7 +21,7 @@ class UnknownSkill(FallbackSkill):
         super(UnknownSkill, self).__init__()
 
     def initialize(self):
-        self.register_fallback(self.handle_fallback, 100)
+        self.register_fallback(self.handle_fallback, 0)
 
     def read_voc_lines(self, name):
         with open(self.find_resource(name + '.voc', 'vocab')) as f:
